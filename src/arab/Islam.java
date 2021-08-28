@@ -1,10 +1,12 @@
 package mindurka;
 
 import arc.util.*;
+import arc.Events;
 
 import mindustry.mod.*;
 import mindustry.ui.*;
 import mindustry.game.EventType.*;
+import mindustry.gen.Call;
 
 public class Islam extends Plugin {
 
