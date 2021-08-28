@@ -32,7 +32,6 @@ ext {
 }
 
 dependencies {
-    implementation 'org.json:json:20180130'
     compileOnly "com.github.Anuken.Arc:arc-core:$versions.mindustry"
     compileOnly "com.github.Anuken.Mindustry:core:$versions.mindustry"
 
