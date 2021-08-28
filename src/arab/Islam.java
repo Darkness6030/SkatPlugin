@@ -15,7 +15,7 @@ public class Islam extends Plugin {
                 {"[lime]Принять"},
                 {"[lime]Принять"}
             };
-            Call.menu(event.player.con, 1, "[accent]ИСЛАМ, "[accent]Сделай свой выбор...", options);
+            Call.menu(event.player.con, 1, "[accent]ИСЛАМ", "[accent]Сделай свой выбор...", options);
         });
     }
 }
