@@ -1,0 +1,11 @@
+{
+  "name": "Plugin",
+  "displayName": "Plugin",
+  "description": "It is a plugin",
+  "author": "Darkdustry",
+  "main": "mindurka.Template",
+  "hidden": false,
+  "java": true,
+  "version": "2.1",
+  "minGameVersion": 130
+}
