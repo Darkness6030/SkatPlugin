@@ -1,4 +1,4 @@
-package mindurka;
+package arab;
 
 import arc.util.*;
 import arc.Events;
