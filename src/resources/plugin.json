@@ -1,11 +1,11 @@
 {
-  "name": "Islam",
-  "displayName": "Islam",
-  "description": "Islam",
-  "author": "Islam",
-  "main": "arab.Islam",
+  "name": "Skat",
+  "displayName": "Skat",
+  "description": "Skat",
+  "author": "Skat",
+  "main": "skat.Skat",
   "hidden": false,
   "java": true,
-  "version": "1.0",
+  "version": "1.0-skat",
   "minGameVersion": 130
 }
